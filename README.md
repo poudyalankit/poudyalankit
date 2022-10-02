@@ -1,5 +1,5 @@
-### 👋 Hi there 
-### 📫 Reach me at: ankitpoudyal@virginia.edu
+- 👋 Hi there <br>
+- 📫 Reach me at: ankitpoudyal@virginia.edu
 
 <!--
 **poudyalankit/poudyalankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
